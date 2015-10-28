@@ -8,6 +8,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 env/
+virenv/
 build/
 develop-eggs/
 dist/
@@ -46,6 +47,9 @@ coverage.xml
 
 # Django stuff:
 *.log
+
+# PyCharm stuff:
+.idea
 
 # Sphinx documentation
 docs/_build/
